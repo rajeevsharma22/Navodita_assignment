@@ -1,2 +1,3 @@
-# Navodita_assignment
-E commerce website for navodita assignment
+# Flipkart - MERN
+Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
+
